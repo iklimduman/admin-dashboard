@@ -13,13 +13,13 @@ Top Selling Branches widget developed with react-simple-maps and markers placed 
 Planned Sales widget is a customized calendar developed with react-calendar library.
 Age Distribution widget and bar charts developed with re-charts.
 
-![Alt text](./admin-dashboard/single-product-page.png )
+![Alt text](./images/single-product-page.png )
 
 On Team Page admin can see team members.
 A dummy team members object array mapped for this page and based on key/value pairs components conditional rendered and placed into Material UI table.
 By edit button on seperate page admin can see users information and edit them.
 
-![Alt text](./admin-dashboard/team-page.png )
+![Alt text](./images/team-page.png )
 
 On Edit Team Member page, admin can see and edit team members current status.
-![Alt text](./admin-dashboard/edit-team-member.png )
+![Alt text](./images/edit-team-member.png )
